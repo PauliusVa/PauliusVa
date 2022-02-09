@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PauliusVa
+- 👀 I’m interested in structural engineering, web and desktop programing
+- 🌱 I’m currently learning JavaScript, ASP.NET
+- 📫 How to reach me p.vasiliausk@gmail.com
